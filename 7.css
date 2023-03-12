@@ -1,0 +1,32 @@
+.td1{
+    border: 1px solid black;
+    background-color: rgb(124, 198, 194);
+    width: 250px;
+    height: 10px;
+    padding-top: 5px;
+}
+
+.table1{
+    border-spacing: 10px;
+    margin-left: 10px;
+}
+
+.ul2{
+   list-style-type: none;
+  padding-top: -50px;
+
+}
+
+.td2{
+    border: 1px solid black;
+    background-color: rgb(124, 198, 194);
+    width: 250px;
+    height: 400px;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+li{
+    position: relative;
+    top: -160px;
+    left: -15px;
+}
